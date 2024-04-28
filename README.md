@@ -6,6 +6,10 @@ Threads Clone is a social media platform aiming to replicate features for user i
 ## Backend URL
 The base URL for the backend API: `http://localhost:8080/`
 
+## Demo
+
+https://github.com/786Ayush/Threads-clone/assets/59289499/5e20d2a8-7a4d-469c-bb88-7276216d4235
+
 
 ## Technologies Used
 - React.js
@@ -69,4 +73,11 @@ For authentication and accessing protected routes:
 - `POST /comments/:postId`: Create a new comment on a post by ID
 - `DELETE /comments/:id`: Delete a comment by ID
 
+## Contributors
+- [Mrsingh-rishi](https://github.com/mrsingh-rishi)
+- [786Ayush](https://github.com/786Ayush)
 
+## Contact Information
+For questions, support, or feedback, reach out to the maintainers:
+- [Rishi Singh](rs3949472@gmail.com)
+- [Ayush Gupta](guptaayush617@gmail.com)
