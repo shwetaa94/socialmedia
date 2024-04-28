@@ -74,10 +74,12 @@ For authentication and accessing protected routes:
 - `DELETE /comments/:id`: Delete a comment by ID
 
 ## Contributors
+- [Shweta](https://github.com/shwetaa94)
 - [Mrsingh-rishi](https://github.com/mrsingh-rishi)
-- [786Ayush](https://github.com/786Ayush)
+
 
 ## Contact Information
 For questions, support, or feedback, reach out to the maintainers:
+- [Shweta](sr.shwetasingh@gmail.com)
 - [Rishi Singh](rs3949472@gmail.com)
-- [Ayush Gupta](guptaayush617@gmail.com)
+
